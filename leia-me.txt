@@ -1,0 +1,12 @@
+A pagina é estática, ou seja, ela é HTML e CSS.
+Não tem nenhuma função javascript que leve para outras páginas, ou que faça o formulário ter alguma valia.
+
+Para rodar a pagina HTML:
+Criei uma pasta na area de trabalho com qualquer nome.
+Dentro dessa pasta criada, criar uma subpasta chamada "Projeto".
+Dentro da pasta "Projeto" criar subpastas "css" e "img".
+O arquivo "index.html" também estará dentro da pasta projetos.
+
+Dentro da pasta "css", estará o arquivo "style.css"
+
+Só abrir o index.html no navegador.
